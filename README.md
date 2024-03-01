@@ -1,4 +1,5 @@
 Puzzle Game 
 
-![Uploading Simulator Screenshot - iPhone 14 - 2024-03-01 at 17.23.53.png…]()
-![Uploading Simulator Screenshot - iPhone 14 - 2024-03-01 at 17.23.43.png…]()
+
+https://github.com/matiasrm/PuzzleTile/assets/22174225/784a1f8d-ac6c-4585-bd8c-b542b39a448e
+
