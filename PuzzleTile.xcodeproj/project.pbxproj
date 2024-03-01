@@ -14,6 +14,8 @@
 		F88F53B02B92364E0080A7B8 /* PuzzleTileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88F53AF2B92364E0080A7B8 /* PuzzleTileTests.swift */; };
 		F88F53BA2B92364E0080A7B8 /* PuzzleTileUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88F53B92B92364E0080A7B8 /* PuzzleTileUITests.swift */; };
 		F88F53BC2B92364E0080A7B8 /* PuzzleTileUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88F53BB2B92364E0080A7B8 /* PuzzleTileUITestsLaunchTests.swift */; };
+		F88F53C92B9236CD0080A7B8 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88F53C82B9236CD0080A7B8 /* Model.swift */; };
+		F88F53CB2B9237040080A7B8 /* PuzzleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88F53CA2B9237040080A7B8 /* PuzzleViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		F88F53B52B92364E0080A7B8 /* PuzzleTileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PuzzleTileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F88F53B92B92364E0080A7B8 /* PuzzleTileUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleTileUITests.swift; sourceTree = "<group>"; };
 		F88F53BB2B92364E0080A7B8 /* PuzzleTileUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleTileUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F88F53C82B9236CD0080A7B8 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		F88F53CA2B9237040080A7B8 /* PuzzleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +99,9 @@
 			isa = PBXGroup;
 			children = (
 				F88F539E2B9236490080A7B8 /* PuzzleTileApp.swift */,
+				F88F53C82B9236CD0080A7B8 /* Model.swift */,
 				F88F53A02B9236490080A7B8 /* ContentView.swift */,
+				F88F53CA2B9237040080A7B8 /* PuzzleViewModel.swift */,
 				F88F53A22B92364E0080A7B8 /* Assets.xcassets */,
 				F88F53A42B92364E0080A7B8 /* Preview Content */,
 			);
@@ -257,7 +263,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F88F53C92B9236CD0080A7B8 /* Model.swift in Sources */,
 				F88F53A12B9236490080A7B8 /* ContentView.swift in Sources */,
+				F88F53CB2B9237040080A7B8 /* PuzzleViewModel.swift in Sources */,
 				F88F539F2B9236490080A7B8 /* PuzzleTileApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
